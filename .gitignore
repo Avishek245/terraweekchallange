@@ -26,3 +26,8 @@ Thumbs.db
 
 # VS Code
 .vscode/
+
+# Local Terraform directories and provider binaries
+.terraform/
+**/.terraform/**
+**/.terraform/providers/**
